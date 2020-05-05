@@ -70,6 +70,14 @@ body {
   
 }
 
+
+
+.contents p{
+  float: left;
+  
+}
+  
+  
 .contents-item {
   float: left;
   margin-right: 40px;
