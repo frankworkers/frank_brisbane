@@ -27,11 +27,21 @@
  
 
 .main {
-  padding: 40px 40px;
-  font-size: 45px;
-  color:#ffcc33;
+  padding: 40px 35px;
+  font-size: 38px;
+  
 　
 }
+
+
+.main-title {
+  float: left;
+  padding: 40px;
+  font-size: 45px;
+  color:#ffcc33;
+  
+}
+  
 
 body {
   background: linear-gradient(-130deg, #BAD3FF, #4689ff) fixed;
