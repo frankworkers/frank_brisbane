@@ -36,13 +36,6 @@ body {
 }
 
 
-.copy-container h1 {
-  font-size:100px;
-}
-
-.copy-container h2 {
-  font-size: 60px;
-}
 
 .copy-container span {
   color: #ff4a4a;
@@ -71,28 +64,9 @@ body {
   margin-top: 30px;
 }
 
-.contact-form {
-  padding-top: 100px;
-  margin: 50px;
-  font-size: 30px;
-}
 
-/* inputとtextareaのCSSを指定してください */
-input,textarea{
-  width: 400px;
-  margin-top: 10px;
-  margin-bottom: 30px;
-  padding: 20px;
-  font-size: 18px;
-  border: 1px solid #dee7ec;
 
-}
 
-/* contact-submitのCSSを指定してください */
-.contact-submit{
-  background-color:#dee7ec;
-  color:#889eab;
-}
 
 .footer {
   background-color: #2f5167;
