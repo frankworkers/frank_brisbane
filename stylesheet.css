@@ -91,6 +91,7 @@ body {
 .wrapper{
     min-height: 100vh;
   position: relative;
+  padding: 120px;
   box-sizing: border-box;
 }
 
