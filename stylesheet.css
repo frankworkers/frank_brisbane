@@ -72,8 +72,13 @@ body {
   
 }
 
+.contents h4 {
+  float: left;
+  padding-top: 20px;
+  
+}
 
-
+  
 .contents p {
   float: left;
   margin-top: 15px;
