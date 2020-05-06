@@ -61,6 +61,8 @@ body {
   float: left;
 }
 
+
+
 .section-title {
   font-size: 28px;
   padding-bottom: 15px;
@@ -72,9 +74,9 @@ body {
 
 
 
-.contents p{
+.contents p {
   float: left;
-  
+  margin-top: 15px;
 }
   
   
