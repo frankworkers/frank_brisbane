@@ -38,7 +38,7 @@
 
 .main-title {
   float: left;
-  padding: 25px 35px;
+  padding: 25px 15px;
   font-size: 45px;
   color:#ffffff;
   
@@ -58,7 +58,7 @@ body {
 
 .contents {
   height: 500px;
-  margin-top: 100px;
+  margin-top: 80px;
   float: left;
 }
 
@@ -67,7 +67,7 @@ body {
 .section-title {
   font-size: 28px;
   padding-bottom: 15px;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
   color:pink;
   
   
@@ -75,23 +75,23 @@ body {
 
 .contents h4 {
   
-  padding-top: 20px;
+  padding: 15px;
   
 }
 
   
 .contents li {
   
-  margin-top: 15px;
+  margin-bottom: 15px;
   list-style: none;
 
 }
   
   
 .wrapper{
-    min-height: 100vh;
+  min-height: 100vh;
   position: relative;
-  padding: 120px;
+  padding: 140px;
   box-sizing: border-box;
 }
 
