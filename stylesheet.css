@@ -95,6 +95,7 @@ body {
   height: 120px;
   padding: 40px;
   
+   position: absolute;/*←絶対位置*/
     bottom: 0;
 }
 
