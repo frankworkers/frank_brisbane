@@ -36,66 +36,6 @@ body {
 }
 
 
-.main-title {
-  float: left;
-  padding: 25px 15px;
-  margin: 100px 15px;
-  font-size: 45px;
-  color:#ffffff;
-  
-}
-  
-
-
-
-.contents {
-  height: 100px;
-  margin: 50px;
-  
-}
-
-
-
-.section-title {
-  font-size: 28px;
-  padding-bottom: 15px;
-  margin-bottom: 25px;
-  color:pink;
-  
-  
-}
-
-.contents h4 {
-  
-  padding: 15px;
-  
-}
-
-  
-.contents li {
-  
-  margin-bottom: 15px;
-  list-style: none;
-
-}
-  
-  
-
-
-
-.wrapper{
-    min-height: 100vh;
-    position: relative;/*←相対位置*/
-    padding-bottom: 120px;/*←footerの高さ*/
-    box-sizing: border-box;/*←全て含めてmin-height:100vhに*/
-}
-
-
-
-
-
-
-
 
 
 
@@ -107,8 +47,6 @@ body {
   height: 120px;
   padding: 40px;
   
-   position: absolute;/*←絶対位置*/
-    bottom: 0;
 }
 
 .footer-logo {
